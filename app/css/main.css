@@ -1,0 +1,11 @@
+.header {
+  height: 44px;
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ddd; }
+  .header nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none; }
+    .header nav ul li {
+      padding: 10px;
+      float: left; }
